@@ -1,0 +1,25 @@
+.block {
+    width: 1500px;
+    background-color: darkslategrey;
+    margin-left: 12%;
+}
+
+img {
+    width: 500px;
+    margin-left: 450px;
+
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: burlywood;
+}
+
+p {
+    text-align: center;
+}
