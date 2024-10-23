@@ -1,0 +1,24 @@
+.backgorund {
+    background-color: rgb(95, 95, 144);
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0px 5px 10px 2px black;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.background__title {
+    width: 700px;
+    text-align: center;
+    background-image: url("https://i.ytimg.com/vi/jV5SKrKKXVU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDwgVyhlMA8=&rs=AOn4CLBD12eIFTJRu9v7t0ZLFa_HnEZZ3w");
+    height: 100px;
+}
